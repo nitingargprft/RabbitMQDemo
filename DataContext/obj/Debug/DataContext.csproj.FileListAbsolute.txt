@@ -1,0 +1,6 @@
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\obj\Debug\DataContext.csproj.AssemblyReference.cache
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\bin\Debug\DataContext.dll
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\bin\Debug\DataContext.pdb
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\obj\Debug\DataContext.dll
+D:\Personal\PracticeCode\MassTransitDemo\PublishMessageToQueue\DataContext\obj\Debug\DataContext.pdb
